@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.eccentricanup.twa",
+        "sha256_cert_fingerprints": ["73:C7:DA:75:A1:3A:87:D9:DC:A7:99:2B:0E:65:36:D4:84:B7:D6:01:1A:18:11:F7:7E:9B:38:15:7E:22:F2:81"]
+      }
+    }]
